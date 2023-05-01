@@ -26,6 +26,7 @@ tract_drivetime <- tract_drivetime |>
     name = "hamilton_drivetime",
     title = "Tract-Level Drivetime to CCHMC",
     version = "0.1.0",
+    description = "Average drivetime in 6-minute intervals for census tracts in Hamilton County",
     homepage = "https://geomarker.io/hamilton_drivetime"
   )
 
