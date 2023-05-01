@@ -5,6 +5,7 @@
 |name     |hamilton_drivetime                      |
 |version  |0.1.0                                   |
 |title    |Tract-Level Drivetime to CCHMC          |
+|description | Average drivetime in 6-minute intervals for census tracts in Hamilton County |
 |homepage |https://geomarker.io/hamilton_drivetime |
 
 #### Schema
