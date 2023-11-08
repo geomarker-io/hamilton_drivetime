@@ -1,3 +1,5 @@
+*This code is deprecated; use https://github.com/codec script included in the package to generate this tabular data resource.*
+
 # Hamilton County Drive Time to CCHMC
 
 ## About
